@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovaPasScanner", "NovaPasScanner\NovaPasScanner.csproj", "{DEB5E45C-71AC-41AF-B6C8-0CF88BBC034D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEB5E45C-71AC-41AF-B6C8-0CF88BBC034D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB5E45C-71AC-41AF-B6C8-0CF88BBC034D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB5E45C-71AC-41AF-B6C8-0CF88BBC034D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB5E45C-71AC-41AF-B6C8-0CF88BBC034D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C87EE1A-1088-4A9D-BA55-45EA329C69E4}
+	EndGlobalSection
+EndGlobal
